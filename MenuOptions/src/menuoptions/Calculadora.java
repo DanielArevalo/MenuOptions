@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author USER
  */
 public class Calculadora {
-    public static void menuCalculadora(boolean salir) {
+    public static void menuCalculadora(boolean salir)  {
         Scanner sc = new Scanner(System.in);
         while(!salir) {
             System.out.println("Este es el menu de la calculadora");
