@@ -9,6 +9,9 @@ import java.util.Scanner;
 /**
  *
  * @author USER
+ * en el archivo menu opciones va a encontrar una variable donde puede crear las opciones, teniendo en cuenta eso crear las opciones asi 
+ * despues de que el usuario escoja que operacion quiere hacer hacer un switch para enviarlo a la operaciones
+ * tener en cuenta que cada operacion tiene que ser un metodo
  */
 public class Calculadora {
     public static void menuCalculadora(boolean salir)  {
